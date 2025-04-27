@@ -1,7 +1,4 @@
-
----
-
-## 👋🏼 Hello there!
+# 👋🏼 Hello there!
 
 I'm Alian713 (he/him), I'm a game developer by day and a nerd for anything interesting by the night! I like playing games and I am also a computer science & programming language enthusiast. I speak HI, EN, and elementary JP.
 

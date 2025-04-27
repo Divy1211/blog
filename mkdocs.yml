@@ -12,10 +12,10 @@ use_directory_urls: true
 
 nav:
   - About:
-    - Me:                                                            "me.md"
-    - This Blog:                                                     "blog.md"
-  - Random:
-    - Why Free Will Is an Illusion (and Why It Doesn't Matter):      "justice.md"
+    - Me:                                                            "index.md"
+    - Contents:                                                      "contents.md"
+  - Yaps:
+    - Why Free Will Is an Illusion (and Why It Doesn't Matter):      "yaps/justice.md"
     # - Identity and Functionalism:                                  "functionalism.md"
     # - Consciousness:                                               "consciousness.md"
 
