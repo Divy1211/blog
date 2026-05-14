@@ -13,14 +13,15 @@ use_directory_urls: true
 nav:
   - About:
     - Me:                                                            "index.md"
-    - Contents:                                                      "contents.md"
   - Yaps:
-    - Why Free Will Is an Illusion (and Why It Doesn't Matter):      "yaps/justice.md"
+    -                                                                "yaps/index.md"
+    - The Undecidability of Consciousness:                           "yaps/consciousness.md"
+    - Why Free Will Is an Illusion:                                  "yaps/justice.md"
     # - Identity and Functionalism:                                  "functionalism.md"
-    # - Consciousness:                                               "consciousness.md"
 
 
 markdown_extensions:
+  - footnotes                 # footnotes                           https://squidfunk.github.io/mkdocs-material/reference/footnotes/
   - attr_list
   - admonition                # Create not and warning boxes        https://squidfunk.github.io/mkdocs-material/reference/admonitions/#admonition
   - md_in_html
@@ -64,6 +65,7 @@ theme:
   language: en
   name: material
   features:
+    - content.footnote.tooltips
     - content.code.annotate
     - content.code.copy
     - navigation.expand

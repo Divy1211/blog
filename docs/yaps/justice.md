@@ -1,5 +1,9 @@
 # Why Free Will Is an Illusion (and Why It Doesn't Matter)
 
+_Written 27/04/2025_
+
+---
+
 Most people live their lives believing they are the true authors of their choices. But what if free will doesn't exist - and never did?
 
 As a functionalist, I believe that consciousness and decision-making are pure functions of physical processes. Free will is an illusion, born from the complexity of those processes, not some magical exception to causality.
