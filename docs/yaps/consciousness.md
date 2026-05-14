@@ -10,13 +10,13 @@ Let me begin by asking you a question: How do you know that you're conscious[^1]
 
 The problem with identifying "things with consciousness" is that to be able to come up with a rule that says something like "if thing has symptom X, it is conscious", you need to know the symptoms of consciousness. How does one figure out the symptoms of consciousness? You would need to observe something that you _know_ to have consciousness... hang on that's a catch-22!
 
-Think about how we create rules for diagnosing infections. Take Polio as an example. Somewhere in history, for the very first time, a doctor saw the symptoms of paralysis in a person, extracted and observed the Polio virus for the very first time, and established that Polio causes Paralysis (Okay, it was probably more complicated than that, but you get the idea).
+Think about how we create rules for diagnosing infections. Take Polio as an example. Somewhere in history, for the very first time, a doctor saw the symptoms of paralysis in a person, extracted and observed the Polio virus for the very first time, and established that Polio causes paralysis (okay, it was probably more complicated than that, but you get the idea).
 
 There is, however, no "consciousness-virus" known to science. We have a pretty good sense for what the symptoms of consciousness _should_ look like, but they're all based on trust that other humans are conscious, that other animals are conscious. We can, however, never know as an absolute fact that something's symptoms of consciousness are genuine vs when they are being faked. This leaves us with the only option: "trust me bro".
 
 ## Humans Are Not Special
 
-If you've read my previous post, you're already familiar with this idea, but I'll state it from a different perspective here. We like to believe that humans (and to a lesser extent, other earthly life forms) are somehow special. This "human-bias" as I'm going to call it, is not based in any evidence or fact, but rather a figment of our own egos. We _want_ to believe that we are somehow special. But if humans are not special, it implies that it may be possible to _create_ artificial life, at the very least via [simulating actual life](../justice/#the-paper-brain-thought-experiment).
+If you've read my previous post, you're already familiar with this idea, but I'll state it from a different perspective here. We like to believe that humans (and to a lesser extent, other earthly life forms) are somehow special. This "human-bias" as I'm going to call it, is not based in any evidence or fact, but rather a figment of our own egos. We _want_ to believe that we are somehow special. But if humans are not special, it implies that it may be possible to _create_ artificial life, at the very least, via [simulating actual life](../justice/#the-paper-brain-thought-experiment).
 
 It gets scarier, because this implies that sufficiently advanced AIs[^2] will be indistinguishable from humans! Or put in another way, humans _are_ sufficiently advanced AIs. This raises a _big_ ethical question: Should a conscious AI get to have the same rights and freedoms as a human? 
 
